@@ -6,7 +6,7 @@
   "homepage": "https://github.com/arvinxx/lobe-plugin-tikzjax",
   "repository": "https://github.com/arvinxx/lobe-plugin-tikzjax.git",
   "scripts": {
-    "build": "vercel build",
+    "build": "",
     "gateway": "tsx scripts/gateway.ts",
     "lint": "eslint \"{src,api}/**/*.{js,jsx,ts,tsx}\" --fix",
     "prepare": "husky install",
